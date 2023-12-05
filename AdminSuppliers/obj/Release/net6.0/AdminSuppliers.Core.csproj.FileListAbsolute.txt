@@ -1,0 +1,12 @@
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\bin\Release\net6.0\AdminSuppliers.Core.deps.json
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\bin\Release\net6.0\AdminSuppliers.Core.dll
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\bin\Release\net6.0\AdminSuppliers.Core.pdb
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\obj\Release\net6.0\AdminSuppliers.Core.csproj.AssemblyReference.cache
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\obj\Release\net6.0\AdminSuppliers.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\obj\Release\net6.0\AdminSuppliers.Core.AssemblyInfoInputs.cache
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\obj\Release\net6.0\AdminSuppliers.Core.AssemblyInfo.cs
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\obj\Release\net6.0\AdminSuppliers.Core.csproj.CoreCompileInputs.cache
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\obj\Release\net6.0\AdminSuppliers.Core.dll
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\obj\Release\net6.0\refint\AdminSuppliers.Core.dll
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\obj\Release\net6.0\AdminSuppliers.Core.pdb
+C:\Users\pulqu\source\repos\AdminSupplier\AdminSuppliers\obj\Release\net6.0\ref\AdminSuppliers.Core.dll
